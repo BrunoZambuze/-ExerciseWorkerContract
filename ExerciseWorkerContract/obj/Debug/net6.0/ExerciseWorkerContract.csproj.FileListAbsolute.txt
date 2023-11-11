@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\bin\Debug\net6.0\ExerciseWorkerContract.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\bin\Debug\net6.0\ExerciseWorkerContract.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\bin\Debug\net6.0\ExerciseWorkerContract.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\bin\Debug\net6.0\ExerciseWorkerContract.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\bin\Debug\net6.0\ExerciseWorkerContract.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ExerciseWorkerContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ExerciseWorkerContract.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ExerciseWorkerContract.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ExerciseWorkerContract.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ExerciseWorkerContract.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\refint\ExerciseWorkerContract.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ExerciseWorkerContract.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ExerciseWorkerContract.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseWorkerContract\ExerciseWorkerContract\obj\Debug\net6.0\ref\ExerciseWorkerContract.dll
